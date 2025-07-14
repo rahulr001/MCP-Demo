@@ -1,0 +1,6 @@
+roo-cline extension activated - {"publisher":"RooVeterinaryInc","name":"roo-cline","version":"3.22.5","outputChannel":"Roo-Code"}
+No settings directory found, no migrations necessary
+[auth] Transitioned to logged-out state
+[MDM] No MDM configuration found
+ClineProvider instantiated
+[AutoImport] No auto-import settings path specified, skipping auto-import

@@ -1,0 +1,4 @@
+LOG: Cline extension activated
+ClineProvider instantiated
+Checking for legacy checkpoints...
+LOG: Cline version changed: undefined -> 3.17.11. First run or update detected.

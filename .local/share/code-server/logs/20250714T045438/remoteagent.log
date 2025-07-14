@@ -1,0 +1,36 @@
+2025-07-14 04:54:38.267 [info] 
+
+
+
+
+2025-07-14 04:54:38.287 [info] Extension host agent started.
+2025-07-14 04:54:41.687 [info] [192.168.114.129][7839803a][ManagementConnection] New connection established.
+2025-07-14 04:54:41.916 [info] Extensions added from another source saoudrizwan.claude-dev file:///root/.local/share/code-server/extensions/extensions.json
+2025-07-14 04:54:45.097 [info] [192.168.114.129][5f9d3f7e][ExtensionHostConnection] New connection established.
+2025-07-14 04:54:45.488 [info] [192.168.114.129][5f9d3f7e][ExtensionHostConnection] <3763> Launched Extension Host Process.
+2025-07-14 04:54:50.694 [info] Extensions added from another source rooveterinaryinc.roo-cline file:///root/.local/share/code-server/extensions/extensions.json
+2025-07-14 04:54:51.905 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/root/.local/share/code-server/extensions/.c2102fba-07d1-46e4-b1d2-7af1c353f474/webview-ui/audio' failed: No such file or directory (EUNKNOWN) (path: /root)
+2025-07-14 04:54:51.905 [error] [File Watcher (universal)] inotify_add_watch on '/root/.local/share/code-server/extensions/.c2102fba-07d1-46e4-b1d2-7af1c353f474/webview-ui/audio' failed: No such file or directory
+2025-07-14 04:54:55.152 [info] Getting Manifest... ms-python.python
+2025-07-14 04:54:55.152 [info] Getting Manifest... saoudrizwan.claude-dev
+2025-07-14 04:54:55.153 [info] Getting Manifest... rooveterinaryinc.roo-cline
+2025-07-14 04:54:55.898 [info] Installing extension: rooveterinaryinc.roo-cline {"productVersion":{"version":"1.91.1","date":"2024-07-15T17:58:33.007Z"},"pinned":false,"isApplicationScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/root/.local/share/code-server/extensions/extensions.json","external":"file:///root/.local/share/code-server/extensions/extensions.json","path":"/root/.local/share/code-server/extensions/extensions.json","scheme":"file"}}
+2025-07-14 04:54:55.903 [info] Installing extension: saoudrizwan.claude-dev {"productVersion":{"version":"1.91.1","date":"2024-07-15T17:58:33.007Z"},"pinned":false,"isApplicationScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/root/.local/share/code-server/extensions/extensions.json","external":"file:///root/.local/share/code-server/extensions/extensions.json","path":"/root/.local/share/code-server/extensions/extensions.json","scheme":"file"}}
+2025-07-14 04:54:56.105 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.91.1","date":"2024-07-15T17:58:33.007Z"},"pinned":false,"isApplicationScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/root/.local/share/code-server/extensions/extensions.json","external":"file:///root/.local/share/code-server/extensions/extensions.json","path":"/root/.local/share/code-server/extensions/extensions.json","scheme":"file"}}
+2025-07-14 04:54:56.690 [info] Getting Manifest... ms-python.debugpy
+2025-07-14 04:54:56.996 [info] Installing extension: ms-python.debugpy {"productVersion":{"version":"1.91.1","date":"2024-07-15T17:58:33.007Z"},"pinned":false,"isApplicationScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/root/.local/share/code-server/extensions/extensions.json","external":"file:///root/.local/share/code-server/extensions/extensions.json","path":"/root/.local/share/code-server/extensions/extensions.json","scheme":"file"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-07-14 04:55:01.313 [info] Extracted extension to file:///root/.local/share/code-server/extensions/saoudrizwan.claude-dev-3.18.14-universal: saoudrizwan.claude-dev
+2025-07-14 04:55:01.317 [info] Renamed to /root/.local/share/code-server/extensions/saoudrizwan.claude-dev-3.18.14-universal
+2025-07-14 04:55:01.406 [info] Marked extension as uninstalled saoudrizwan.claude-dev-3.17.11
+2025-07-14 04:55:01.500 [info] Extension installed successfully: saoudrizwan.claude-dev file:///root/.local/share/code-server/extensions/extensions.json
+2025-07-14 04:55:02.695 [info] Extracted extension to file:///root/.local/share/code-server/extensions/ms-python.debugpy-2024.8.0-linux-x64: ms-python.debugpy
+2025-07-14 04:55:02.700 [info] Renamed to /root/.local/share/code-server/extensions/ms-python.debugpy-2024.8.0-linux-x64
+2025-07-14 04:55:06.008 [info] Extracted extension to file:///root/.local/share/code-server/extensions/ms-python.python-2024.14.1-universal: ms-python.python
+2025-07-14 04:55:06.011 [info] Renamed to /root/.local/share/code-server/extensions/ms-python.python-2024.14.1-universal
+2025-07-14 04:55:06.090 [info] Marked extension as uninstalled ms-python.python-2021.5.829140558
+2025-07-14 04:55:06.093 [info] Extension installed successfully: ms-python.debugpy file:///root/.local/share/code-server/extensions/extensions.json
+2025-07-14 04:55:06.094 [info] Extension installed successfully: ms-python.python file:///root/.local/share/code-server/extensions/extensions.json
+2025-07-14 04:55:06.231 [info] Extracted extension to file:///root/.local/share/code-server/extensions/rooveterinaryinc.roo-cline-3.23.8-universal: rooveterinaryinc.roo-cline
+2025-07-14 04:55:06.233 [info] Renamed to /root/.local/share/code-server/extensions/rooveterinaryinc.roo-cline-3.23.8-universal
+2025-07-14 04:55:06.244 [info] Marked extension as uninstalled rooveterinaryinc.roo-cline-3.22.5
+2025-07-14 04:55:06.246 [info] Extension installed successfully: rooveterinaryinc.roo-cline file:///root/.local/share/code-server/extensions/extensions.json

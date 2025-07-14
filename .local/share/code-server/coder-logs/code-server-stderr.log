@@ -1,0 +1,4 @@
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+[04:54:51] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/root/.local/share/code-server/extensions/.c2102fba-07d1-46e4-b1d2-7af1c353f474/webview-ui/audio' failed: No such file or directory (EUNKNOWN) (path: /root)
+[04:54:51] [File Watcher (universal)] inotify_add_watch on '/root/.local/share/code-server/extensions/.c2102fba-07d1-46e4-b1d2-7af1c353f474/webview-ui/audio' failed: No such file or directory

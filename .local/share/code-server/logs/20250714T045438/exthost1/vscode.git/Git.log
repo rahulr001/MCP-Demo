@@ -1,0 +1,201 @@
+2025-07-14 04:54:56.498 [info] Log level: Info
+2025-07-14 04:54:56.498 [info] Validating found git in: "git"
+2025-07-14 04:54:56.498 [info] Using git "2.43.0" from "git"
+2025-07-14 04:54:56.498 [info] > git rev-parse --show-toplevel [75ms]
+2025-07-14 04:54:56.498 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-14 04:54:56.498 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-14 04:54:56.498 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-14 04:54:56.498 [info] > git rev-parse --show-toplevel [1ms]
+2025-07-14 04:54:56.498 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-14 04:54:56.498 [info] > git rev-parse --show-toplevel [1ms]
+2025-07-14 04:54:56.498 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-14 04:54:56.498 [info] > git rev-parse --show-toplevel [1ms]
+2025-07-14 04:54:56.498 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-14 04:54:56.498 [info] > git rev-parse --show-toplevel [1ms]
+2025-07-14 04:54:56.498 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2025-07-14 04:54:56.498 [info] Open repository: /root/.oh-my-zsh
+2025-07-14 04:54:56.498 [info] > git config --get commit.template [7ms]
+2025-07-14 04:54:56.498 [info] > git rev-parse --show-toplevel [3ms]
+2025-07-14 04:54:56.498 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-14 04:54:56.498 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2025-07-14 04:54:56.498 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-14 04:54:56.498 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-14 04:54:56.499 [info] > git rev-parse --show-toplevel [13ms]
+2025-07-14 04:54:56.499 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-14 04:54:56.586 [info] > git rev-parse --show-toplevel [55ms]
+2025-07-14 04:54:56.586 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-14 04:54:56.596 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-14 04:54:56.596 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-14 04:54:56.604 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-14 04:54:56.604 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-14 04:54:56.609 [info] > git status -z -uall [112ms]
+2025-07-14 04:54:56.690 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [74ms]
+2025-07-14 04:54:56.701 [info] > git rev-parse --show-toplevel [92ms]
+2025-07-14 04:54:56.701 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-14 04:54:56.706 [info] > git config --local branch.master.vscode-merge-base [5ms]
+2025-07-14 04:54:56.706 [warning] git config failed: Failed to execute git
+2025-07-14 04:54:56.714 [info] > git config --get commit.template [86ms]
+2025-07-14 04:54:56.723 [info] > git reflog master --grep-reflog=branch: Created from *. [10ms]
+2025-07-14 04:54:56.732 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2025-07-14 04:54:56.732 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [3ms]
+2025-07-14 04:54:56.790 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [52ms]
+2025-07-14 04:54:56.790 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-07-14 04:54:56.801 [info] > git merge-base refs/heads/master refs/remotes/origin/master [3ms]
+2025-07-14 04:54:56.812 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [5ms]
+2025-07-14 04:54:56.887 [info] > git diff --name-status -z --diff-filter=ADMR ccbe504f224a0aae688aaa729d4258e3392a9fc8...refs/remotes/origin/master [67ms]
+2025-07-14 04:54:56.985 [info] > git status -z -uall [196ms]
+2025-07-14 04:54:57.001 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2025-07-14 04:54:57.087 [info] > git config --local branch.master.vscode-merge-base [1ms]
+2025-07-14 04:54:57.088 [warning] git config failed: Failed to execute git
+2025-07-14 04:54:57.101 [info] > git reflog master --grep-reflog=branch: Created from *. [3ms]
+2025-07-14 04:54:57.109 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [1ms]
+2025-07-14 04:54:57.116 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2025-07-14 04:54:57.116 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-07-14 04:55:06.473 [info] > git rev-parse --show-toplevel [15ms]
+2025-07-14 04:55:06.473 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-14 05:17:58.912 [info] > git rev-parse --show-toplevel [1ms]
+2025-07-14 05:17:58.912 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-14 05:18:00.834 [info] > git rev-parse --show-toplevel [650ms]
+2025-07-14 05:18:00.834 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-14 05:26:14.894 [info] > git merge-base refs/heads/master refs/remotes/origin/master [3ms]
+2025-07-14 05:26:14.906 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [2ms]
+2025-07-14 05:26:15.281 [info] > git rev-parse --show-toplevel [6ms]
+2025-07-14 05:26:15.296 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2025-07-14 05:26:15.308 [info] Open repository: /root
+2025-07-14 05:26:15.330 [info] > git config --get commit.template [10ms]
+2025-07-14 05:26:15.330 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-07-14 05:26:15.331 [warning] No such branch: main.
+2025-07-14 05:26:15.625 [info] > git status -z -uall [287ms] (cancelled)
+2025-07-14 05:26:16.288 [info] > git check-ignore -v -z --stdin [75ms]
+2025-07-14 05:26:16.387 [info] > git show --textconv :flight-sim-mcp/src/resources/flight_resources.py [16ms]
+2025-07-14 05:26:16.392 [info] > git ls-files --stage -- /root/flight-sim-mcp/src/resources/flight_resources.py [5ms]
+2025-07-14 05:26:16.403 [info] > git cat-file -s 28bc4c01cd7dfa7afba1dd28a39019e1658b07f1 [2ms]
+2025-07-14 05:26:35.007 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2247ms]
+2025-07-14 05:26:35.007 [warning] No such branch: main.
+2025-07-14 05:26:35.095 [info] > git config --get commit.template [89ms]
+2025-07-14 05:26:35.108 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-07-14 05:26:35.185 [warning] No such branch: main.
+2025-07-14 05:26:37.775 [info] > git status -z -uall [2577ms] (cancelled)
+2025-07-14 05:26:37.776 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1769ms]
+2025-07-14 05:26:37.776 [warning] No such branch: main.
+2025-07-14 05:26:39.652 [info] > git check-ignore -v -z --stdin [11ms]
+2025-07-14 05:26:42.116 [info] > git push [1ms]
+2025-07-14 05:26:42.116 [info] fatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin main
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+2025-07-14 05:26:42.130 [info] > git config --get commit.template [7ms]
+2025-07-14 05:26:42.131 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-14 05:26:42.131 [warning] No such branch: main.
+2025-07-14 05:26:44.518 [info] > git status -z -uall [2382ms] (cancelled)
+2025-07-14 05:26:44.518 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2076ms]
+2025-07-14 05:26:44.518 [warning] No such branch: main.
+2025-07-14 05:26:54.746 [info] > git push -u origin main [11ms]
+2025-07-14 05:26:54.746 [info] error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/rahulr001/MCP-Demo.git'
+2025-07-14 05:26:54.765 [info] > git config --get commit.template [7ms]
+2025-07-14 05:26:54.766 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-14 05:26:54.766 [warning] No such branch: main.
+2025-07-14 05:26:56.473 [info] > git status -z -uall [1701ms] (cancelled)
+2025-07-14 05:26:56.473 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1432ms]
+2025-07-14 05:26:56.473 [warning] No such branch: main.
+2025-07-14 05:27:08.502 [info] > git fetch [349ms]
+2025-07-14 05:27:08.502 [info] From https://github.com/rahulr001/MCP-Demo
+ * [new branch]      main       -> origin/main
+2025-07-14 05:27:08.520 [info] > git config --get commit.template [8ms]
+2025-07-14 05:27:08.520 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-14 05:27:08.521 [warning] No such branch: main.
+2025-07-14 05:27:10.236 [info] > git status -z -uall [1709ms] (cancelled)
+2025-07-14 05:27:10.236 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1406ms]
+2025-07-14 05:27:10.236 [warning] No such branch: main.
+2025-07-14 05:27:10.253 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2025-07-14 05:27:14.442 [info] > git for-each-ref --format %(refname:short)%00%(upstream:short) refs/heads [2ms]
+2025-07-14 05:27:14.621 [info] > git checkout -q --track origin/main [171ms]
+2025-07-14 05:27:14.640 [info] > git config --get commit.template [7ms]
+2025-07-14 05:27:14.641 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-07-14 05:27:16.398 [info] > git status -z -uall [1750ms] (cancelled)
+2025-07-14 05:27:16.399 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1442ms]
+2025-07-14 05:27:16.411 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2025-07-14 05:27:16.411 [warning] git config failed: Failed to execute git
+2025-07-14 05:27:16.424 [info] > git reflog main --grep-reflog=branch: Created from *. [3ms]
+2025-07-14 05:27:16.433 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [1ms]
+2025-07-14 05:27:16.445 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [6ms]
+2025-07-14 05:27:16.445 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-07-14 05:27:16.454 [info] > git merge-base refs/heads/main refs/remotes/origin/main [2ms]
+2025-07-14 05:27:16.487 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [2ms]
+2025-07-14 05:27:16.499 [info] > git diff --name-status -z --diff-filter=ADMR 88afc23852058f9a9eb12de3481c051d9f641228...refs/remotes/origin/main [1ms]
+2025-07-14 05:27:17.515 [info] > git merge-base refs/heads/main refs/remotes/origin/main [3ms]
+2025-07-14 05:27:17.526 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [3ms]
+2025-07-14 05:27:25.135 [info] > git fetch [301ms]
+2025-07-14 05:27:25.152 [info] > git config --get commit.template [7ms]
+2025-07-14 05:27:25.153 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-14 05:27:25.414 [info] > git fetch [589ms]
+2025-07-14 05:27:25.414 [info] From https://github.com/ohmyzsh/ohmyzsh
+   ccbe504..3e7ef01  master     -> origin/master
+ * [new branch]      dependabot/pip/dot-github/workflows/dependencies/certifi-2025.7.9 -> origin/dependabot/pip/dot-github/workflows/dependencies/certifi-2025.7.9
+2025-07-14 05:27:25.432 [info] > git config --get commit.template [7ms]
+2025-07-14 05:27:25.488 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [56ms]
+2025-07-14 05:27:27.106 [info] > git status -z -uall [1946ms] (cancelled)
+2025-07-14 05:27:27.106 [info] > git status -z -uall [1608ms]
+2025-07-14 05:27:27.106 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1506ms]
+2025-07-14 05:27:27.136 [info] > git config --local branch.main.vscode-merge-base [15ms]
+2025-07-14 05:27:27.136 [warning] git config failed: Failed to execute git
+2025-07-14 05:27:27.145 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+2025-07-14 05:27:27.154 [info] > git reflog main --grep-reflog=branch: Created from *. [9ms]
+2025-07-14 05:27:27.161 [info] > git config --local branch.master.vscode-merge-base [8ms]
+2025-07-14 05:27:27.161 [warning] git config failed: Failed to execute git
+2025-07-14 05:27:27.168 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [8ms]
+2025-07-14 05:27:27.197 [info] > git reflog master --grep-reflog=branch: Created from *. [29ms]
+2025-07-14 05:27:27.207 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [11ms]
+2025-07-14 05:27:27.207 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-07-14 05:27:27.208 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [2ms]
+2025-07-14 05:27:27.226 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [10ms]
+2025-07-14 05:27:27.226 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-07-14 05:27:27.236 [info] > git merge-base refs/heads/master refs/remotes/origin/master [3ms]
+2025-07-14 05:27:27.245 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [3ms]
+2025-07-14 05:27:27.289 [info] > git diff --name-status -z --diff-filter=ADMR ccbe504f224a0aae688aaa729d4258e3392a9fc8...refs/remotes/origin/master [37ms]
+2025-07-14 05:27:28.215 [info] > git config --get commit.template [8ms]
+2025-07-14 05:27:28.217 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2025-07-14 05:27:28.236 [info] > git status -z -uall [12ms]
+2025-07-14 05:27:28.247 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2025-07-14 05:27:28.253 [info] > git config --local branch.master.vscode-merge-base [1ms]
+2025-07-14 05:27:28.253 [warning] git config failed: Failed to execute git
+2025-07-14 05:27:28.261 [info] > git reflog master --grep-reflog=branch: Created from *. [2ms]
+2025-07-14 05:27:28.267 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [1ms]
+2025-07-14 05:27:28.274 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [2ms]
+2025-07-14 05:27:28.274 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-07-14 05:27:28.628 [info] > git merge-base refs/heads/master refs/remotes/origin/master [4ms]
+2025-07-14 05:27:28.639 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [3ms]
+2025-07-14 05:27:31.897 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent --author-date-order ccbe504f224a0aae688aaa729d4258e3392a9fc8..3e7ef0182f59c7990a52cf6ec2981adb56d5b368 [29ms]
+2025-07-14 05:27:32.466 [info] > git diff --shortstat ccbe504f224a0aae688aaa729d4258e3392a9fc8...3e7ef0182f59c7990a52cf6ec2981adb56d5b368 [18ms]
+2025-07-14 05:27:36.812 [info] > git diff --name-status -z --diff-filter=ADMR cb72d7dcbf08b435c7f8a6470802b207b2aa02c3...3e7ef0182f59c7990a52cf6ec2981adb56d5b368 [3ms]
+2025-07-14 05:27:37.589 [info] > git check-ignore -v -z --stdin [2ms]
+2025-07-14 05:27:51.194 [info] > git check-ignore -v -z --stdin [7ms]
+2025-07-14 05:28:02.926 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [452ms]
+2025-07-14 05:28:02.926 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no name was given and auto-detection is disabled
+2025-07-14 05:28:02.937 [info] > git config --get-all user.name [1ms]
+2025-07-14 05:28:02.953 [info] > git config --get commit.template [8ms]
+2025-07-14 05:28:02.954 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-07-14 05:28:04.730 [info] > git status -z -uall [1769ms] (cancelled)
+2025-07-14 05:28:04.730 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1412ms]
+2025-07-14 05:28:04.742 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2025-07-14 05:28:04.742 [warning] git config failed: Failed to execute git
+2025-07-14 05:28:04.752 [info] > git reflog main --grep-reflog=branch: Created from *. [2ms]
+2025-07-14 05:28:04.760 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [1ms]
+2025-07-14 05:28:04.790 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [24ms]
+2025-07-14 05:28:04.790 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref

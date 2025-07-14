@@ -1,0 +1,4 @@
+2024-11-22 15:37:58.978 [info] Installing extension: bierner.markdown-emoji {"isMachineScoped":false,"installPreReleaseVersion":false,"installOnlyNewlyAddedFromExtensionPack":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/root/.local/share/code-server/extensions/extensions.json","external":"file:///root/.local/share/code-server/extensions/extensions.json","path":"/root/.local/share/code-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.1","date":"2024-07-15T18:41:47.410Z"}}
+2024-11-22 15:37:59.078 [info] Extracted extension to file:///root/.local/share/code-server/extensions/bierner.markdown-emoji-0.1.0: bierner.markdown-emoji
+2024-11-22 15:37:59.083 [info] Renamed to /root/.local/share/code-server/extensions/bierner.markdown-emoji-0.1.0
+2024-11-22 15:37:59.101 [info] Extension installed successfully: bierner.markdown-emoji file:///root/.local/share/code-server/extensions/extensions.json

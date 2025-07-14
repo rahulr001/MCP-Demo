@@ -1,6 +1,0 @@
-2024-11-22 15:37:47.985 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.local/share/code-server/extensions
-2024-11-22 15:37:48.089 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.local/share/code-server/extensions
-2024-11-22 15:37:48.124 [info] Installing extension: snowlie.terminalautoshow {"isMachineScoped":false,"installPreReleaseVersion":false,"installOnlyNewlyAddedFromExtensionPack":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/root/.local/share/code-server/extensions/extensions.json","external":"file:///root/.local/share/code-server/extensions/extensions.json","path":"/root/.local/share/code-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.1","date":"2024-07-15T18:41:47.410Z"}}
-2024-11-22 15:37:48.192 [info] Extracted extension to file:///root/.local/share/code-server/extensions/snowlie.terminalautoshow-0.0.1: snowlie.terminalautoshow
-2024-11-22 15:37:48.195 [info] Renamed to /root/.local/share/code-server/extensions/snowlie.terminalautoshow-0.0.1
-2024-11-22 15:37:48.206 [info] Extension installed successfully: snowlie.terminalautoshow file:///root/.local/share/code-server/extensions/extensions.json

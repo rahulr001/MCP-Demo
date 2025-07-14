@@ -1,4 +1,0 @@
-2025-07-14 04:54:40.619 [info] Installing extension: saoudrizwan.claude-dev {"isMachineScoped":false,"installPreReleaseVersion":false,"installOnlyNewlyAddedFromExtensionPack":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/root/.local/share/code-server/extensions/extensions.json","external":"file:///root/.local/share/code-server/extensions/extensions.json","path":"/root/.local/share/code-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.1","date":"2024-07-15T18:41:47.410Z"}}
-2025-07-14 04:54:41.811 [info] Extracted extension to file:///root/.local/share/code-server/extensions/saoudrizwan.claude-dev-3.17.11: saoudrizwan.claude-dev
-2025-07-14 04:54:41.814 [info] Renamed to /root/.local/share/code-server/extensions/saoudrizwan.claude-dev-3.17.11
-2025-07-14 04:54:41.886 [info] Extension installed successfully: saoudrizwan.claude-dev file:///root/.local/share/code-server/extensions/extensions.json

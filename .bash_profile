@@ -1,8 +1,0 @@
-export CLAUDE_API_KEY=Sk-kkAI-3109878a60c4be13fb8975dc72160c14c38378e1a6d075cde4a8dd852b6807a7kk_iah2zvfw3grep7p2-kke07e1867
-export GROQ_API_KEY=Sk-kkAI-3109878a60c4be13fb8975dc72160c14c38378e1a6d075cde4a8dd852b6807a7kk_iah2zvfw3grep7p2-kke07e1867
-export OPENAI_API_BASE=https://main.kk-ai-keys.kodekloud.com/v1
-export AZURE_OPENAI_ENDPOINT=https://main.kk-ai-keys.kodekloud.com/openai
-export OPENAI_API_KEY=Sk-kkAI-3109878a60c4be13fb8975dc72160c14c38378e1a6d075cde4a8dd852b6807a7kk_iah2zvfw3grep7p2-kke07e1867
-export GROQ_API_BASE=https://main.kk-ai-keys.kodekloud.com
-export AZURE_OPENAI_API_KEY=Sk-kkAI-3109878a60c4be13fb8975dc72160c14c38378e1a6d075cde4a8dd852b6807a7kk_iah2zvfw3grep7p2-kke07e1867
-export CLAUDE_API_BASE=https://main.kk-ai-keys.kodekloud.com

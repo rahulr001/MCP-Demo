@@ -1,5 +1,0 @@
-2024-11-22 15:38:03.170 [info] Getting Manifest... 4ops.terraform
-2024-11-22 15:38:03.390 [info] Installing extension: 4ops.terraform {"isMachineScoped":false,"installPreReleaseVersion":false,"isBuiltin":false,"installGivenVersion":false,"isApplicationScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/root/.local/share/code-server/extensions/extensions.json","external":"file:///root/.local/share/code-server/extensions/extensions.json","path":"/root/.local/share/code-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.1","date":"2024-07-15T18:41:47.410Z"}}
-2024-11-22 15:38:03.700 [info] Extracted extension to file:///root/.local/share/code-server/extensions/4ops.terraform-0.2.1-universal: 4ops.terraform
-2024-11-22 15:38:03.703 [info] Renamed to /root/.local/share/code-server/extensions/4ops.terraform-0.2.1-universal
-2024-11-22 15:38:03.717 [info] Extension installed successfully: 4ops.terraform file:///root/.local/share/code-server/extensions/extensions.json

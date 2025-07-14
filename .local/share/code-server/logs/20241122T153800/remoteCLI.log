@@ -1,5 +1,0 @@
-2024-11-22 15:38:01.387 [info] Getting Manifest... gruntfuggly.activitusbar
-2024-11-22 15:38:01.587 [info] Installing extension: gruntfuggly.activitusbar {"isMachineScoped":false,"installPreReleaseVersion":false,"isBuiltin":false,"installGivenVersion":false,"isApplicationScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/root/.local/share/code-server/extensions/extensions.json","external":"file:///root/.local/share/code-server/extensions/extensions.json","path":"/root/.local/share/code-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.1","date":"2024-07-15T18:41:47.410Z"}}
-2024-11-22 15:38:01.906 [info] Extracted extension to file:///root/.local/share/code-server/extensions/gruntfuggly.activitusbar-0.0.46-universal: gruntfuggly.activitusbar
-2024-11-22 15:38:01.910 [info] Renamed to /root/.local/share/code-server/extensions/gruntfuggly.activitusbar-0.0.46-universal
-2024-11-22 15:38:01.923 [info] Extension installed successfully: gruntfuggly.activitusbar file:///root/.local/share/code-server/extensions/extensions.json
